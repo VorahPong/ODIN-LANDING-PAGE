@@ -68,12 +68,41 @@ body {
 .txt button{
     font-size: 18px;
     color: #E5E7EB;;
-    background-color: rgb(94, 88, 255);
+    background-color: #3882F6;
 }
+
+/* lvl 2 body */
+.middle.lvl2 #h1{
+    margin: 20px;
+    font-size: 26px;
+    font-weight: bold;
+    color: #1F2937;
+    display: flex;
+    justify-content: center;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    flex: 1 1 auto;
+    gap: 30px;
+    margin-bottom: 90px;
+}
+.info{
+    max-width: 100px;
+}
+.box{
+    width: 20px;
+    border: 1px solid green;
+    border-radius: 20px;
+    padding: 40px;
+}
+
+
 
 /* footer */
 .footer{
     display: flex;
+    margin-top: auto;
     justify-content: center;
     align-items: center;
 }

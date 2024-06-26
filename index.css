@@ -49,6 +49,7 @@ body {
     flex-direction: row;
     flex: 1 1 auto;
     justify-content: center;
+    padding-bottom: 90px;
 }
 .txt{
     width: 400px;
@@ -66,6 +67,7 @@ body {
     margin-bottom: 5px;
 }
 .txt button{
+    margin-top: 10px;
     font-size: 18px;
     color: #E5E7EB;;
     background-color: #3882F6;

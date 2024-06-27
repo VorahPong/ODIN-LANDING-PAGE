@@ -99,6 +99,29 @@ body {
     padding: 40px;
 }
 
+/* lvl 3 body */
+.middle.lvl3{
+    background-color: #E5E7EB;
+    color: #1F2937;
+    font-size: 20px;
+    font-weight: 100;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px;
+}
+.author, .quote{
+    max-width: 600px;
+}
+.author{
+    margin-left: auto;
+    font-weight: bold;
+}
+
+
+/* lvl 4 body */
+
 
 
 /* footer */

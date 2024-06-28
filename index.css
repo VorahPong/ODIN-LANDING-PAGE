@@ -132,7 +132,7 @@ button{
     flex-direction: row;
     background-color: #3882F6;
     justify-content: center;
-    margin: 50px auto;
+    margin: 50px 300px;
     padding: 50px;
     gap: 50px;
 }

@@ -110,12 +110,17 @@ button{
     flex-direction: column;
     align-items: center;
     padding: 50px;
+    flex: 1 1 auto;
 }
 .author, .quote{
     max-width: 600px;
 }
+.lvl3container{
+    display: flex;
+    flex-direction: column;
+}
 .author{
-    margin-left: auto;
+    align-self: flex-end;
     font-weight: bold;
 }
 

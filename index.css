@@ -66,7 +66,7 @@ body {
     font-weight: lighter;
     margin-bottom: 5px;
 }
-.txt button{
+button{
     margin-top: 10px;
     font-size: 18px;
     color: #E5E7EB;;
@@ -121,7 +121,16 @@ body {
 
 
 /* lvl 4 body */
-
+.middle.lvl4{
+    color: #E5E7EB;
+    display: flex;
+    flex-direction: row;
+    background-color: #3882F6;
+    justify-content: center;
+    margin: 50px auto;
+    padding: 50px;
+    gap: 50px;
+}
 
 
 /* footer */
@@ -130,4 +139,5 @@ body {
     margin-top: auto;
     justify-content: center;
     align-items: center;
+    color: #E5E7EB;
 }
